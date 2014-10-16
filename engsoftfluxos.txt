@@ -1,0 +1,113 @@
+﻿Nome:Diretor do Hotel
+O que faz: Aprovar as promoções, inserir contacto, editar contacto, eliminar contacto e consultar contacto.
+Onde: Gabinete do diretor (Hotel)
+
+Descrição de fluxos:
+
+  -Consultar promoção:
+ 
+     Id da promoção, nome da promoção, entidade, descrição, contactos válidos, promoção aprovada
+
+  -Aprovar promoção:
+
+     promoção aprovada, Id da promoção
+
+  -inserir contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão
+
+  -editar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+ 
+  -eliminar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+
+  -consultar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+  
+
+Nome:Rececionista do Hotel
+O que faz: Inserir contacto, editar contacto, eliminar contacto e consultar contacto.
+Onde: Receção do hotel
+
+Descrição de fluxos:
+
+  -inserir contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão
+
+  -editar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+ 
+  -eliminar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+
+  -consultar contacto:
+
+     Nome, morada, telefone, email, idade, género, profissão, número de estadias
+
+  -Verificar promoção:
+
+     id do contacto, contactos válidos
+   
+   
+Nome:Gestor de marketing
+O que faz: Receber recomendações, lançar promoções, editar promoções, consultar histórico de promoções, introduzir promoção, segmentar promoção, gerir promoção
+Onde: Gabinete
+
+Descrição de fluxos:
+
+   -Receber recomendações:
+    
+      ID da promoção, nome da promoção, entidade, descrição, contactos válidos 
+
+   -lançar promoções:
+
+      id da promoção
+
+   -editar promoções:
+
+      ID da promoção, nome da promoção, entidade, descrição, contactos válidos
+
+   -consultar histórico de promoções:
+
+      ID da promoção, nome da promoção, entidade, descrição, contactos válidos
+
+   -introduzir promoção:
+
+      ID da promoção, nome da promoção, entidade, descrição
+
+   -segmentar promoção:
+
+      contactos válidos
+
+   -gerir promoção:
+
+      ID da promoção, nome da promoção, entidade, descrição, contactos válidos
+
+Nome:Contacto
+O que faz: Receber promoção
+Onde: Email, correio
+
+
+Descrição de fluxos:
+
+    -Receber promoção:
+
+       idcontacto, contacto valido
+
+Nome:Weather API
+O que faz: Enviar previsões
+Onde: Instituto
+
+
+Descrição de fluxos: 
+
+    -Enviar previsões:
+
+       estado do tempo, data, temperatura     
