@@ -1,0 +1,11 @@
+Introdução		??
+Diagrama de contexto	??
+Casos de uso (diagrama)	1h
+casos de uso (tabela)	??
+descrição casos de uso	??
+Diagramas de sequência	2h
+Diagramas de classes	2h
+Semântica		4.5h
+Diagrama de Estados	1h
+Protótipo		??
+empacotar relatório	1.5h
