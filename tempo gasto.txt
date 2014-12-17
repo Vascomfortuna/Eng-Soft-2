@@ -1,11 +1,11 @@
 Introdução		1h
-Diagrama de contexto	3.2h
-Casos de uso (diagrama)	7.1h
-casos de uso (tabela)	1h
-descrição casos de uso	13h
-Diagramas de sequência	4h
-Diagramas de classes	6h
-Semântica		6h
-Diagrama de Estados	3h
+Diagrama de contexto	4h
+Casos de uso (diagrama)	8h
+casos de uso (tabela)	3h
+descrição casos de uso	22h
+Diagramas de sequência	19h
+Diagramas de classes	13h
+Semântica		10h
+Diagrama de Estados	6h
 Protótipo		3h
-empacotar relatório	4h
+empacotar relatório	7h
